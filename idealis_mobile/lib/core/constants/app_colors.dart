@@ -7,9 +7,9 @@ class AppColors {
   static const Color primaryLight = Color(0xFFf2f9f3);
 
   // Secondary Colors
-  static const Color secondary = Color(0xFF10B981);
-  static const Color secondaryDark = Color(0xFF059669);
-  static const Color secondaryLight = Color(0xFF34D399);
+  static const Color secondary = Color(0xFFffdd76);
+  static const Color secondaryDark = Color(0xFFbfa659);
+  static const Color secondaryLight = Color(0xFFfffcf1);
 
   // Accent Colors
   static const Color accent = Color(0xFFF59E0B);
@@ -41,7 +41,7 @@ class AppColors {
   static const Color textOnPrimary = Color(0xFFFFFFFF);
 
   // Border Colors
-  static const Color border = Color(0xFFE5E7EB);
+  static const Color border = Color(0xFFC2C2C2);
   static const Color borderLight = Color(0xFFF3F4F6);
   static const Color borderDark = Color(0xFFD1D5DB);
 
